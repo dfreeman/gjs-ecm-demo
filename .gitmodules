@@ -1,4 +1,0 @@
-[submodule "lib/embroider"]
-	path = lib/embroider
-	url = git@github.com:dfreeman/embroider.git
-	branch = customize-css-and-style-loader-config
